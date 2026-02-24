@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch: # Rulează doar când apeși tu butonul
+  workflow_dispatch: 
 
 jobs:
   build:
