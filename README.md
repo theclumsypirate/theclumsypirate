@@ -7,19 +7,42 @@
 ### 🥷 Vibe Coding
 > "Coding with the flow, shipping with soul." 🚀
 
-* 📱 **Mobile:** Crafting Flutter apps with Dart & Kotlin in my private repos.
-* ⚡ **Vercel:** Deploying some things on Vercel — it helps me reach my goals.
-* ⚙️ **Automation:** Powering workflows with GitHub Actions.
+### 🥷 What I Do?
+**I work where and I build and experiment with vibe coding.** Most of my magic happens in **private repos**, where I have the freedom to flow and create without limits.
+
+* 📱 **Mobile:** I worked on some cool things and used vibe coding to build **Flutter apps** (Dart & Kotlin) in my private repos.
+* ⚡ **Vercel:** I really do like **Vercel.app** — it's super cool and it helped me a lot to achieve my goals by bringing my ideas to life.
+* ⚙️ **Automation:** I really do like **GitHub Actions**, they are essential for powering my workflows.
 
 ---
 
-### 🛠️ Tech Stack & Environments
+### 🛠️ Tech Stack
 <p align="left">
-  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+### 🌍 Environments
+<p align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://kubuntu.org" target="_blank">
+    <img src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" />
+  </a>
 </p>
 
 ---
