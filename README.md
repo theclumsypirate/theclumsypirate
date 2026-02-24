@@ -21,6 +21,18 @@
 
 ---
 
+### 💻 Environments
+<p align="left">
+  <a href="https://github.com/theclumsypirate" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://kubuntu.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" alt="Kubuntu" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg" alt="Snake animation" />
