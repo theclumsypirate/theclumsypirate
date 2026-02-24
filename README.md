@@ -21,15 +21,6 @@
 
 ---
 
-### 📊 GitHub Insights & 🏆 Achievements
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-profile-achievements.vercel.app/api?username=theclumsypirate&format=group&theme=tokyonight" width="400" />
-</p>
-
----
-
 ### 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg" alt="Snake animation" />
