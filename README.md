@@ -1,4 +1,8 @@
-# 👋 Hi, I'm theclumsypirate
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+theclumsypirate;I'm+a+vibe+coder" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 🥷 Vibe Coding
 > "Coding with the flow, shipping with soul." 🚀
@@ -26,24 +30,6 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 💻 Environments
-<p align="left">
-  <a href="https://github.com/theclumsypirate">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://kubuntu.org/">
-    <img src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" alt="Kubuntu" />
-  </a>
 </p>
 
 ---
@@ -54,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theclumsypirate&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Total Contributions Card" />
 </p>
 
 <p align="center">
