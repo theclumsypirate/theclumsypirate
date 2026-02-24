@@ -40,7 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-click%20to%20see-7F52FF?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <a href="https://github.com/theclumsypirate">
+    <img src="https://img.shields.io/badge/dynamic/json?combined_as_sub_path=undefined&label=Total%20Contributions&query=total_contributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Ftheclumsypirate.json&style=for-the-badge&color=7F52FF&logo=github" alt="Total Contributions" />
+  </a>
 </p>
 
 <p align="center">
