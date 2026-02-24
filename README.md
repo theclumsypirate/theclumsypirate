@@ -8,7 +8,7 @@
 > "Coding with the flow, shipping with soul." 🚀
 
 ### 🥷 What I Do?
-**I work where and I build and experiment with vibe coding.** Most of my magic happens in **private repos**, where I have the freedom to flow and create without limits.
+**I work and I build and experiment with vibe coding.** Most of my magic happens in **private repos**, where I have the freedom to flow and create without limits.
 
 * 📱 **Mobile:** I worked on some cool things and used vibe coding to build **Flutter apps** (Dart & Kotlin) in my private repos.
 * ⚡ **Vercel:** I really do like **Vercel.app** — it's super cool and it helped me a lot to achieve my goals by bringing my ideas to life.
