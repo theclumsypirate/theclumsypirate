@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0175C2&text_color=ffffff&icon_color=7F52FF&hide_border=true" alt="Total Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theclumsypirate&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
