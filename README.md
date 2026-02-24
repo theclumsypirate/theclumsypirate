@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Total Contributions Card" />
+  <img src="https://github-readme-stats-git-masterhstl.vercel.app/api?username=theclumsypirate&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Total Contributions Card" />
 </p>
 
 <p align="center">
