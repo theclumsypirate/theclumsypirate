@@ -47,6 +47,12 @@
   <img src="octocat.png" width="150" alt="My Octocat" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=20&section=footer" width="100%" />
 </p>
