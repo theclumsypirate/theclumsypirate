@@ -39,6 +39,6 @@
   <img src="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="right">
-  <img src="octocat.png" width="80" alt="My Octocat" />
+<p align="center">
+  <img src="octocat.png" width="150" alt="My Octocat" />
 </p>
