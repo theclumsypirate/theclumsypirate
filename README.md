@@ -21,11 +21,11 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Insights & 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&count_private=true" alt="theclumsypirate stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theclumsypirate&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-profile-achievements.vercel.app/api?username=theclumsypirate&format=group&theme=tokyonight" width="400" />
 </p>
 
 ---
