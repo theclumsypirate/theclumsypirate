@@ -1,8 +1,17 @@
 # 👋 Hi there, I'm theclumsypirate!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Vibe%20Coding%20&fontSize=70&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Vibe%20Coding%3A%20Building%20at%20the%20speed%20of%20thought." />
 </p>
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theclumsypirate&repo=theclumsypirate&theme=tokyonight" />
+  <br>
+  <img src="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 ### 🥷 About Me & Vibe Coding
 > **Vibe Coding** in `bash`:
@@ -31,10 +40,8 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
@@ -43,10 +50,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theclumsypirate&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theclumsypirate&theme=tokyonight" />
 </p>
 
 ---
