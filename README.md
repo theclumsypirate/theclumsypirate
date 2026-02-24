@@ -40,5 +40,5 @@
 </p>
 
 <p align="right">
-  <img src="https://octodex.github.com/images/ninja-octocat.png" width="50" />
+  <img src="https://octodex.github.com/images/dojocat.jpg" width="50" />
 </p>
