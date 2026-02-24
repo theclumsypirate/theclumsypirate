@@ -50,9 +50,9 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theclumsypirate&theme=tokyonight&area=true&hide_border=true&height=120" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=20&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Stuff-7aa2f7?style=flat-square&logo=github" />
 </p>
