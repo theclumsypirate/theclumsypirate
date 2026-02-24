@@ -40,19 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theclumsypirate&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theclumsypirate&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=7aa2f7" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="octocat.png" width="150" alt="My Octocat" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theclumsypirate&theme=tokyonight&area=true&hide_border=true&height=120" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Stuff-7aa2f7?style=flat-square&logo=github" />
 </p>
