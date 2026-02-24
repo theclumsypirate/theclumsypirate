@@ -1,10 +1,6 @@
 # 👋 Hi, I'm theclumsypirate
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theclumsypirate&label=Profile%20Views&color=00b4d8&style=flat" alt="Views" />
-</p>
-
-### 🥷 Vibe Coding Persona
+### 🥷 Vibe Coding
 > "Coding with the flow, shipping with soul." 🚀
 
 * 📱 **Mobile:** Crafting Flutter apps with Dart & Kotlin.
@@ -28,7 +24,7 @@
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&count_private=true" alt="theclumsypirate's Stats" />
-  <br>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theclumsypirate&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
