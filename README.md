@@ -3,8 +3,8 @@
 ### 🥷 Vibe Coding
 > "Coding with the flow, shipping with soul." 🚀
 
-* 📱 **Mobile:** Crafting Flutter apps with Dart & Kotlin.
-* ⚡ **Web:** Deploying everything on Vercel.
+* 📱 **Mobile:** Crafting Flutter apps with Dart & Kotlin in my private repos.
+* ⚡ **Vercel:** Deploying some things on Vercel — it helps me reach my goals.
 * ⚙️ **Automation:** Powering workflows with GitHub Actions.
 
 ---
@@ -23,9 +23,9 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&count_private=true" alt="theclumsypirate's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theclumsypirate&show_icons=true&theme=tokyonight&count_private=true" alt="theclumsypirate stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theclumsypirate&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theclumsypirate&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 ---
