@@ -14,21 +14,19 @@ jobs:
           user: theclumsypirate
           template: classic
           
-          # 'packages' va afișa pachetul tău Docker
-          # 'activity' va afișa statisticile de commit
+          # 'base: header, activity, repositories, packages'
+          # Aceasta activează doar statisticile globale, nu și feed-ul de evenimente recente
           base: header, activity, repositories, packages
           
-          # Curățăm elementele sociale și data update-ului
+          # BLOCĂM tot ce este social și metadata (Last updated)
           base_metadata: no
           repositories_stats: no
           
-          # Configurație pentru Commit-uri (All time & Year)
-          plugin_activity: yes
-          plugin_activity_limit: 0
-          plugin_activity_days: 365
-          plugin_activity_filter: commit
+          # Dezactivăm feed-ul de "Recent Activity" (cel care arată ce ai făcut acum x ore)
+          # Dar păstrăm cifrele de activitate din 'base'
+          plugin_activity: no
           
-          # Design Tokyonight
+          # Design și Culori
           config_timezone: Europe/Bucharest
           theme: tokyonight
           filename: github-metrics.svg
