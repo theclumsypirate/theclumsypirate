@@ -14,12 +14,11 @@ jobs:
           user: theclumsypirate
           template: classic
           
-          # Am scos 'community' din listă
-          base: header, activity, repositories, metadata
+          # 'metadata' este cel care afișează "Last updated", deci l-am scos
+          # 'repositories' afișează numărul de repo-uri și contribuțiile
+          base: header, repositories
           
           # Setări vizuale
           config_timezone: Europe/Bucharest
           theme: tokyonight
-          
-          # Numele fișierului salvat
           filename: github-metrics.svg
