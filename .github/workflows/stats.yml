@@ -14,20 +14,21 @@ jobs:
           user: theclumsypirate
           template: classic
           
-          # Afișăm doar Header (nume), Activity (commits) și Repositories
-          base: header, activity, repositories
+          # 'packages' va afișa pachetul tău Docker
+          # 'activity' va afișa statisticile de commit
+          base: header, activity, repositories, packages
           
-          # Eliminăm complet datele de social/community
+          # Curățăm elementele sociale și data update-ului
           base_metadata: no
           repositories_stats: no
           
-          # Plugin Activity configurat pentru Commits (All time & Year)
+          # Configurație pentru Commit-uri (All time & Year)
           plugin_activity: yes
           plugin_activity_limit: 0
           plugin_activity_days: 365
           plugin_activity_filter: commit
           
-          # Design și Culori
+          # Design Tokyonight
           config_timezone: Europe/Bucharest
           theme: tokyonight
           filename: github-metrics.svg
