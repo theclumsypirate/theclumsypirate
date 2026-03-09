@@ -6,6 +6,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Această secțiune lipsea și e critică pentru permisiuni
+    permissions:
+      contents: write
+    
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -15,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # Folosim METRICS_TOKEN pentru a include si contributiile private
+          # Folosim token-ul tău care are acces la repo-uri private
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - name: Push to output branch
