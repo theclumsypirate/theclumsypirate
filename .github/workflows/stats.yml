@@ -1,4 +1,3 @@
-
 name: GitHub Metrics Manual
 on:
   workflow_dispatch: 
@@ -14,8 +13,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: theclumsypirate
           template: classic
-          # Am scos plugin_habits care dădea eroare și am lăsat doar baza curată
-          base: header, activity, community, repositories, metadata
+          
+          # Am scos 'community' din listă
+          base: header, activity, repositories, metadata
+          
+          # Setări vizuale
           config_timezone: Europe/Bucharest
           theme: tokyonight
+          
+          # Numele fișierului salvat
           filename: github-metrics.svg
