@@ -14,19 +14,18 @@ jobs:
           user: theclumsypirate
           template: classic
           
-          # 'base: header, activity, repositories, packages'
-          # Aceasta activează doar statisticile globale, nu și feed-ul de evenimente recente
-          base: header, activity, repositories, packages
+          # Păstrăm doar ce contează: cine ești, pachete și total commit-uri
+          base: header, repositories, packages, activity
           
-          # BLOCĂM tot ce este social și metadata (Last updated)
+          # BLOCĂM DEFINITIV: stars, forks, watchers, sponsors și metadata
           base_metadata: no
+          base_subscribing: no
           repositories_stats: no
           
-          # Dezactivăm feed-ul de "Recent Activity" (cel care arată ce ai făcut acum x ore)
-          # Dar păstrăm cifrele de activitate din 'base'
+          # OPRIM plugin-ul de activitate recentă (cel care genera eroarea)
           plugin_activity: no
           
-          # Design și Culori
+          # Design Tokyonight
           config_timezone: Europe/Bucharest
           theme: tokyonight
           filename: github-metrics.svg
