@@ -52,11 +52,15 @@
 
 ### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Stats" />
+  <a href="https://raw.githubusercontent.com/theclumsypirate/theclumsypirate/main/github-metrics.svg">
+    <img src="github-metrics.svg" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
