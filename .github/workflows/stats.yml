@@ -14,21 +14,20 @@ jobs:
           user: theclumsypirate
           template: classic
           
-          # 'base: header, repositories' arată doar numele și nr. de repo-uri
-          base: header, repositories
+          # Afișăm doar Header (nume), Activity (commits) și Repositories
+          base: header, activity, repositories
           
-          # Dezactivăm specific restul elementelor pentru a fi compact
-          base_header: yes
-          base_repositories: yes
+          # Eliminăm complet datele de social/community
           base_metadata: no
-          
-          # Eliminăm detaliile de community (stars, forks, etc.)
           repositories_stats: no
           
-          # Setări vizuale (Tokyonight)
+          # Plugin Activity configurat pentru Commits (All time & Year)
+          plugin_activity: yes
+          plugin_activity_limit: 0
+          plugin_activity_days: 365
+          plugin_activity_filter: commit
+          
+          # Design și Culori
           config_timezone: Europe/Bucharest
           theme: tokyonight
-          config_padding: 6%
-          
-          # Numele fișierului
           filename: github-metrics.svg
