@@ -1,6 +1,7 @@
-name: Metrics Manual Update
+
+name: GitHub Metrics Manual
 on:
-  workflow_dispatch: # Allows manual trigger only
+  workflow_dispatch: 
 
 jobs:
   github-metrics:
@@ -10,24 +11,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your Personal Access Token (stored in Secrets)
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Options
           user: theclumsypirate
           template: classic
           base: header, activity, community, repositories, metadata
           
-          # Specific plugins for "Streak" style data
+          # Design și Culori (Tokyonight style)
+          config_timezone: Europe/Bucharest
+          theme: tokyonight
+          
+          # Plugin pentru Streak/Habits
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_days: 14
+          plugin_habits_charts: no
           
-          # Privacy settings
-          config_timezone: Europe/Bucharest
-          # This ensures it can see your private data via the token
-          config_display: large
-          
-          # Output file name
+          # Output
           filename: github-metrics.svg
-          
