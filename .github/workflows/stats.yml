@@ -14,11 +14,21 @@ jobs:
           user: theclumsypirate
           template: classic
           
-          # 'metadata' este cel care afișează "Last updated", deci l-am scos
-          # 'repositories' afișează numărul de repo-uri și contribuțiile
+          # 'base: header, repositories' arată doar numele și nr. de repo-uri
           base: header, repositories
           
-          # Setări vizuale
+          # Dezactivăm specific restul elementelor pentru a fi compact
+          base_header: yes
+          base_repositories: yes
+          base_metadata: no
+          
+          # Eliminăm detaliile de community (stars, forks, etc.)
+          repositories_stats: no
+          
+          # Setări vizuale (Tokyonight)
           config_timezone: Europe/Bucharest
           theme: tokyonight
+          config_padding: 6%
+          
+          # Numele fișierului
           filename: github-metrics.svg
