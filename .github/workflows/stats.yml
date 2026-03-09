@@ -14,16 +14,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: theclumsypirate
           template: classic
+          # Am scos plugin_habits care dădea eroare și am lăsat doar baza curată
           base: header, activity, community, repositories, metadata
-          
-          # Design și Culori (Tokyonight style)
           config_timezone: Europe/Bucharest
           theme: tokyonight
-          
-          # Plugin pentru Streak/Habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          
-          # Output
           filename: github-metrics.svg
