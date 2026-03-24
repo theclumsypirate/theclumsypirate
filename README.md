@@ -8,11 +8,11 @@
 > "Coding with the flow, shipping with soul." 🚀
 
 ### 💻 What I Do?
-**I work and I build and experiment with vibe coding.** Most of my magic happens in **private repos**, unde am libertatea de a crea fără limite.
+**I work, build, and experiment with vibe coding.** Most of my magic happens in **private repos**, where I have the freedom to create without limits.
 
-* 📱 **Mobile:** Proiecte în **Flutter** (Dart & Kotlin) în repo-urile mele private.
-* ⚡ **Vercel:** Îmi place mult **vercel.app** pentru a-mi aduce ideile la viață rapid.
-* ⚙️ **Automation:** **GitHub Actions** sunt esențiale pentru fluxul meu de lucru.
+* 📱 **Mobile:** Projects in **Flutter** (Dart & Kotlin) within my private repositories.
+* ⚡ **Vercel:** I love using **vercel.app** to bring my ideas to life quickly.
+* ⚙️ **Automation:** **GitHub Actions** are essential to my workflow.
 
 ---
 
